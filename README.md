@@ -47,4 +47,8 @@ To view and run the solutions:
    git clone https://github.com/AbdulMomen2/kuet_bitfest_hackathon.git
    cd kuet_bitfest_hackathon
 
+```bash
+python -m venv env
+source env/bin/activate  # On Windows: env\Scripts\activate
+pip install -r requirements.txt
 
